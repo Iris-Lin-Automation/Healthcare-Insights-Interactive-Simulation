@@ -13,7 +13,11 @@
 - **[CN] 核心摘要**：针对国内 DRG/DIP 控费政策带来的耗材周转压力，对不同层级医疗机构建立手术量波动预测模型，深度模拟如何通过供应链流程优化保障理赔风险，提供落地的 ROI 成本防火墙运营建议。
 - **[EN] Executive Summary**: In response to price-containment pressures driven by China's DRG/DIP policies, this study builds surgical volume volatility forecasting models across multi-tier healthcare institutions, simulating supply chain optimization to mitigate insurance payment risks and delivering actionable ROI cost-firewall strategies for MNCs.
 
----
+# 🚧 Project Status: Active MVP (Minimum Viable Product)
+
+> **[CN] 核心提示**：本项目目前处于活跃的 MVP（最小可行性产品）阶段。核心商业闭环已全部跑通，目前正在持续优化边界异常控制与高并发容错。欢迎开 Issue 提意见或探讨定制化部署！
+>
+> **[EN] Notice**: This project is currently in an active MVP stage. The core commercial closed-loop has been fully validated and executed. Current developments are focused on refining edge-case exception handling and high-concurrency fault tolerance. Discussions regarding customized enterprise deployment are highly welcome!
 
 ### 📊 核心数据洞察预警 / Data Insights Preview
 > 💡 *GitHub 默认无法直接流畅预览 PDF。以下为报告中核心模型与市场价格区间热力图的视觉呈现：*
